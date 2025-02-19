@@ -71,11 +71,15 @@ ul a:hover {
 
 .title {
   position: absolute;
-  left: 50%;
-  top: 50%;
+  left: 39%;
+  top: 45%;
   text-align: center;
+  vertical-align: middle;
+  line-height: 250%;
+  text-transform: uppercase;
   font-family: Arial, Helvetica, sans-serif;
-  background: rgba(245, 245, 220, 0.8);
+  background: beige;
+  opacity: 0.75;
   text-align: center;
   border-radius: 10px;
   width: 300px;
@@ -113,6 +117,7 @@ h2 {
   text-align: center;
   vertical-align: middle;
   line-height: 200%;
+  font-style: italic;
   height: 50px;
   border-radius: 10px;
 }
