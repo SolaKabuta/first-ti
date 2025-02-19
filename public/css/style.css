@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px 10px;
+}
+
+nav {
+    position: sticky;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    list-style: none;
+    a {
+        list-style: none;
+        text-decoration: none;
+        color: black;
+    }
+}
+
+.banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background: rgba(177, 17, 41, 0.954);
+}
+

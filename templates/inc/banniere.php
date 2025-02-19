@@ -1,0 +1,1 @@
+<img class='banner' src="../public/img/banniere.jpg" alt="bannière du header">
