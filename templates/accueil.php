@@ -47,6 +47,20 @@
         <p>
             Ville mondiale, Rome fait partie des principales destinations touristiques de l'Europe. La Ville Éternelle est l'une des plus belles villes du monde, et fréquentée par les touristes depuis le xviiie siècle. Le siège de la papauté et le pèlerinage de Rome en font un lieu éminent pour les chrétiens du monde entier depuis des siècles. Les musées du Vatican et le Colisée sont parmi les sites les plus fréquentés. Rome est aussi l'un des plus grands sites archéologiques du monde, et compte également de nombreux ponts et fontaines, 900 églises, ainsi qu'un grand nombre de musées et d'universités. Outre le tourisme, l'économie de la « Ville Éternelle » est également orientée vers les nouvelles technologies, les médias et les télécommunications depuis les années 2000. Bâtie sur sept collines, la ville se situe près de l'embouchure du Tibre et est divisée en vingt-deux rioni. Rome a aussi organisé les Jeux olympiques d'été en 1960. Rome n'est jumelée qu'avec une seule ville, Paris : « Seule Paris est digne de Rome, seule Rome est digne de Paris ».
         </p>
+        <div class="summary">
+            <p>
+                Sommaire :
+            </p>
+            <ul>
+                <li><a href="./">Accueil</a></li>
+                <li><a href="?p=geographie?">Géographie</a></li>
+                <li><a href="?p=histoire?">Histoire</a></li>
+                <li><a href="?p=culture">Culture</a></li>
+                <li><a href="?p=galerie?">Galerie</a></li>
+                <li><a href="?p=contact?">Contact</a></li>
+                <li><a href="?p=liens?">Liens</a></li>
+            </ul>
+        </div>
 
         <div class="wiki">
             <a href="https://fr.wikipedia.org/wiki/Rome">Source : Wikipedia - Ville de Rome </a>

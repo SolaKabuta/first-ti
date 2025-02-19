@@ -33,8 +33,10 @@ ul {
   justify-content: space-around;
   gap: 10px;
   list-style: none;
-  a {
+  li {
     min-width: 150px;
+  }
+  a {
     height: 50px;
     text-align: center;
     text-decoration: none;
@@ -47,9 +49,13 @@ ul {
   }
 }
 
+li:hover {
+    background: #A90331;
+    transition: 0.3s ease-in-out;
+}
+
 ul a:hover {
   color: white;
-  background: #a90331;
   height: 100%;
   transition: 0.3s ease-in-out;
 }
@@ -116,10 +122,35 @@ h2 {
   justify-content: center;
 }
 
+.summary {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  ul {
+    display: block;
+    text-align: center;
+    li:hover {
+        background: none;
+    }
+    a {
+        color: #A90331;
+        font-size: 20px;
+    }
+    a:hover {
+        color: black;
+        background: none;
+    }
+  }
+}
+
 .wiki {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
   a {
     text-decoration: none;
+    color: black;
   }
 }
