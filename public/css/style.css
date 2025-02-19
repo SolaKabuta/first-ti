@@ -159,3 +159,15 @@ h2 {
     color: black;
   }
 }
+
+/* GALLERY */
+
+.gallery {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  .card {
+  text-align: center;
+  }
+}
