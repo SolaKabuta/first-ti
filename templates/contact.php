@@ -35,6 +35,8 @@
 
         <div id="form">
         <form action="">
+            <div>
+
             <fieldset>
                 <label for="">Nom :</label>
                 <input type="text">
@@ -57,8 +59,12 @@
 
                 </textarea>
             </fieldset>
-            <input type="submit" value="Submit">
-        </form>
+            </div>
+            <div class="submit-btn-container">
+
+            <input id="submit-btn" type="submit" value="Envoyer votre message">
+            </div>
+            </form>
         </div>
 
 </body>

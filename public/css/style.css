@@ -199,8 +199,10 @@ h2 {
 }
 
 form {
+  position: relative;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   width: 620px;
   font-size: 20px;
   fieldset {
@@ -209,15 +211,29 @@ form {
     label {
       height: 30px;
       width: 200px;
+      text-align: end;
     }
     input {
       height: 30px;
       width: 400px;
-    }
-    text-area {
-      height: 80px;
-      width: 400px;
-      resize: none;
-    }
+      margin-bottom: 4px;
+    } 
+  }
+  textarea {
+    height: 80px;
+    width: 400px;
+    resize: none;
+  }
+  .submit-btn-container {
+    display: flex;
+    justify-content: end;
+    padding-top: 20px;
+    padding-right: 120px;
+  }
+  #submit-btn {
+    height: 50px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 20px;
   }
 }
