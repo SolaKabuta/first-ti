@@ -119,7 +119,7 @@ h2 {
   line-height: 200%;
   font-style: italic;
   height: 50px;
-  border-radius: 10px;
+  border-radius: 10px 10px 0 0;
 }
 
 .blason {
@@ -183,6 +183,41 @@ h2 {
       padding: 5px;
       width: 494px;
       height: 334px;
+    }
+  }
+}
+
+/* CONTACT */
+
+#contact-img {
+  padding: 20px 20px;
+}
+
+#form {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 620px;
+  font-size: 20px;
+  fieldset {
+    display: flex;
+    border: none;
+    label {
+      height: 30px;
+      width: 200px;
+    }
+    input {
+      height: 30px;
+      width: 400px;
+    }
+    text-area {
+      height: 80px;
+      width: 400px;
+      resize: none;
     }
   }
 }
