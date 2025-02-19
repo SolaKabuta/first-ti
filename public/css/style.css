@@ -127,7 +127,7 @@ h2 {
   justify-content: center;
 }
 
-/* SUMARRY LINKS */
+/** SUMARRY LINKS **/
 
 .summary {
   display: flex;
@@ -165,7 +165,7 @@ h2 {
   }
 }
 
-/* GALLERY */
+/** GALLERY **/
 
 .gallery {
   width: 90%;
@@ -187,11 +187,13 @@ h2 {
   }
 }
 
-/* CONTACT */
+/* CONTACT + LINK IMG */
 
-#contact-img {
+#contact-img, #link-img {
   padding: 20px 20px;
 }
+
+/** FORM **/
 
 #form {
   display: flex;
@@ -235,5 +237,23 @@ form {
     width: 300px;
     font-size: 20px;
     border-radius: 20px;
+  }
+}
+
+/* LINKS LIST */
+
+.links {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  
+  .links-list-li {
+    display: block;
+    ul li a {
+      display: block;
+      list-style: none;
+      text-decoration: none;
+      color: #a90331;
+    }
   }
 }
