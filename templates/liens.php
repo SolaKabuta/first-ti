@@ -27,8 +27,8 @@
         <div class="subtitle-container">
             <h2>Bienvenue sur notre site consacré à Rome.</h2>
         </div>
-        <div id="link-img" class="blason">
-            <img src="img/liens.jpg" alt="blason de la ville de rome">
+        <div class="blason">
+            <img class="main-img" src="img/liens.jpg" alt="blason de la ville de rome">
         </div>
         <!-- LINKS LIST -->
         <div class="summary links">
@@ -44,25 +44,26 @@
             </div>
             <div>
                 <ul>
-                    <li><a href="#">Berlin</a></li>
-                    <li><a href="#">Vienne</a></li>
-                    <li><a href="#">Paris</a></li>
-                    <li><a href="#">Madrid</a></li>
-                    <li><a href="#">Rome</a></li>
-                    <li><a href="#">Londres</a></li>
+                    <li><a href="#">Lisbonne</a></li>
+                    <li><a href="#">Prague</a></li>
+                    <li><a href="#">Amsterdam</a></li>
+                    <li><a href="#">Copenhagues</a></li>
+                    <li><a href="#">Dublin</a></li>
+                    <li><a href="#">Athènes</a></li>
                 </ul>
             </div>
             <div>
                 <ul>
-                    <li><a href="#">Berlin</a></li>
-                    <li><a href="#">Vienne</a></li>
-                    <li><a href="#">Paris</a></li>
-                    <li><a href="#">Madrid</a></li>
-                    <li><a href="#">Rome</a></li>
-                    <li><a href="#">Londres</a></li>
+                    <li><a href="#">Viennes</a></li>
+                    <li><a href="#">Varsovie</a></li>
+                    <li><a href="#">Helsinki</a></li>
+                    <li><a href="#">Stockholm</a></li>
+                    <li><a href="#">Oslo</a></li>
+                    <li><a href="#">Budapest</a></li>
                 </ul>
             </div>
         </div>
+    </main>
 </body>
 
 </html>

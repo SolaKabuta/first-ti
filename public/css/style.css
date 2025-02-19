@@ -187,9 +187,9 @@ h2 {
   }
 }
 
-/* CONTACT + LINK IMG */
+/* PAGES MAIN IMG */
 
-#contact-img, #link-img {
+.main-img {
   padding: 20px 20px;
 }
 
@@ -246,6 +246,9 @@ form {
   display: flex;
   justify-content: space-around;
   flex-direction: row;
+  a {
+    font-weight: 400;
+  }
   
   .links-list-li {
     display: block;
@@ -255,5 +258,23 @@ form {
       text-decoration: none;
       color: #a90331;
     }
+  }
+}
+
+/* ERROR MESSAGE */
+
+.err-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  a {
+    color: #a90331;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  a:hover {
+    color: black;
+    transition: 0.3s ease-in-out;
+    text-decoration: underline;
   }
 }

@@ -30,7 +30,7 @@
             </h2>
         </div>
         <div class="blason">
-            <img src="img/histoire.jpg" alt="blason de la ville de rome">
+            <img class="main-img" src="img/histoire.jpg" alt="blason de la ville de rome">
         </div>
         <p>
             Le nom de la ville est dû selon la tradition à la légende des jumeaux Romulus et Rémus, où le premier tua le second, obtenant ainsi le droit de donner son nom à la ville qu'il construisait. Une autre hypothèse suggère que le nom de Rome viendrait du mot Rumon, nom étrusque du Tibre, qui serait ainsi devenue « La ville du fleuve ». La date historique de la fondation de la ville est le 21 avril de l'an 753 av. J.-C. (date qui a été retenue comme celle du début du calendrier romain).
@@ -166,6 +166,7 @@
 
             Aujourd’hui, Rome est l’une des plus importantes destinations touristiques du monde, grâce à son immense patrimoine archéologique et à ses trésors artistiques, mais aussi pour ses traditions uniques et la beauté de ses vues et de ses villas.
         </p>
+    </main>
 </body>
 
 </html>

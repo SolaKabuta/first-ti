@@ -59,6 +59,7 @@
                 <p>Palazzo</p>
             </div>
         </div>
+    </main>
 </body>
 
 </html>

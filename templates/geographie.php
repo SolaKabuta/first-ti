@@ -30,7 +30,7 @@
             </h2>
         </div>
         <div class="blason">
-            <img src="img/geographie.png" alt="blason de la ville de rome">
+            <img class="main-img" src="img/geographie.png" alt="blason de la ville de rome">
         </div>
         <p>
             Au centre de la péninsule italienne, Rome sépare l'Italie du Nord de l'Italie du Sud. En effet, la capitale est située à 187 km au nord-ouest de Naples, à 234 km au sud-sud-est de Florence, à 372 km à l'ouest-nord-ouest de Bari, à 424 km au nord de Palerme et à 479 km au sud-est de Milan. La ville est située dans la région du Latium, à la confluence de l'Aniene et du Tibre. Le centre-ville est situé à environ 25 kilomètres de la côte de la mer Tyrrhénienne, mais l'agglomération romaine s'étend jusqu'à celle-ci par le biais du Municipio X formant l'actuel quartier d'Ostie, appelée aussi Lido di Roma (Lido signifie « littoral » en Italien). C'est pourquoi Rome est une des rares capitales européennes à se prévaloir d'un littoral, et d'environ 20 km de plages. À proximité de la ville, on trouve à 30 km au nord-est le lac de Bracciano, et au sud-est à environ 20 km du centre les Castelli Romani, au milieu des collines des Monts Albains.
@@ -59,7 +59,7 @@
         <p>
             Rome bénéficie d'un climat méditerranéen caractéristique des côtes méditerranéennes de l'Italie. Les hivers sont doux, et les coups de froid en provenance des Apennins sont infréquents. La neige est très rare. Les étés sont chauds et secs, mais influencés par la proximité de la mer. Un record absolu de chaleur a été mesuré le 3 juillet 1905 atteignant 44,6 °C au centre de Rome. Les précipitations atteignent leur maximum lors des pluies orageuses d'automne. La plus haute température à Rome fut de 44,6 °C le 4 août 1981 et la plus basse fut de −9,4 °C le 11 janvier 1985 à Ciampino. La commune est si vaste et son relief si varié qu'il peut y avoir des variations climatiques importantes, par exemple entre les quartiers nord et ceux du sud, ou entre le centre-ville et le littoral.
         </p>
-        
+    </main> 
 </body>
 
 </html>

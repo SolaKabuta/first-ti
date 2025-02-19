@@ -30,7 +30,7 @@
             </h2>
         </div>
         <div class="blason">
-            <img id="contact-img" src="img/contacts.jpg" alt="form image">
+            <img class="main-img" src="img/contacts.jpg" alt="form image">
         </div>
 
         <div id="form">
@@ -66,7 +66,7 @@
             </div>
             </form>
         </div>
-
+    </main>
 </body>
 
 </html>
