@@ -50,8 +50,8 @@ ul {
 }
 
 li:hover {
-    background: #A90331;
-    transition: 0.3s ease-in-out;
+  background: #a90331;
+  transition: 0.3s ease-in-out;
 }
 
 ul a:hover {
@@ -136,15 +136,15 @@ h2 {
     display: block;
     text-align: center;
     li:hover {
-        background: none;
+      background: none;
     }
     a {
-        color: #A90331;
-        font-size: 20px;
+      color: #a90331;
+      font-size: 20px;
     }
     a:hover {
-        color: black;
-        background: none;
+      color: black;
+      background: none;
     }
   }
 }
@@ -163,11 +163,21 @@ h2 {
 /* GALLERY */
 
 .gallery {
+  width: 90%;
+  margin: 20px auto;
   padding-top: 20px;
   display: flex;
-  justify-content: center;
   gap: 10px;
   .card {
-  text-align: center;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    font-size: 18px;
+    img {
+      border: 2px solid black;
+      padding: 5px;
+      width: 494px;
+      height: 334px;
+    }
   }
 }
