@@ -112,10 +112,8 @@ h2 {
 }
 
 .blason {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  display: flex;
+  justify-content: center;
 }
 
 .wiki {
