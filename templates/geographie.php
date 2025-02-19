@@ -59,28 +59,7 @@
         <p>
             Rome bénéficie d'un climat méditerranéen caractéristique des côtes méditerranéennes de l'Italie. Les hivers sont doux, et les coups de froid en provenance des Apennins sont infréquents. La neige est très rare. Les étés sont chauds et secs, mais influencés par la proximité de la mer. Un record absolu de chaleur a été mesuré le 3 juillet 1905 atteignant 44,6 °C au centre de Rome. Les précipitations atteignent leur maximum lors des pluies orageuses d'automne. La plus haute température à Rome fut de 44,6 °C le 4 août 1981 et la plus basse fut de −9,4 °C le 11 janvier 1985 à Ciampino. La commune est si vaste et son relief si varié qu'il peut y avoir des variations climatiques importantes, par exemple entre les quartiers nord et ceux du sud, ou entre le centre-ville et le littoral.
         </p>
-        <div class="summary">
-            <p>
-                Sommaire :
-            </p>
-            <ul>
-                <li><a href="./">Accueil</a></li>
-                <li><a href="?p=geographie?">Géographie</a></li>
-                <li><a href="?p=histoire?">Histoire</a></li>
-                <li><a href="?p=culture">Culture</a></li>
-                <li><a href="?p=galerie?">Galerie</a></li>
-                <li><a href="?p=contact?">Contact</a></li>
-                <li><a href="?p=liens?">Liens</a></li>
-            </ul>
-        </div>
-
-        <div class="wiki">
-            <a href="https://fr.wikipedia.org/wiki/Rome">Source : Wikipedia - Ville de Rome </a>
-        </div>
-    </main>
-    <footer>
-
-    </footer>
+        
 </body>
 
 </html>
