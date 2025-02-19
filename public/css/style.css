@@ -127,11 +127,14 @@ h2 {
   justify-content: center;
 }
 
+/* SUMARRY LINKS */
+
 .summary {
   display: flex;
   flex-direction: column;
   justify-content: center;
   text-align: center;
+    padding-bottom: 20px;
   ul {
     display: block;
     text-align: center;
@@ -140,6 +143,8 @@ h2 {
     }
     a {
       color: #a90331;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: normal;
       font-size: 20px;
     }
     a:hover {
